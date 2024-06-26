@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-apprate",
+  "name": "cordova-plugin-apprate-enhanced",
   "version": "1.7.4",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pushandplay/cordova-plugin-apprate"
+    "url": "https://github.com/gregorysyrkin/cordova-plugin-apprate-enhanced"
   },
   "dependencies": {},
   "devDependencies": {
